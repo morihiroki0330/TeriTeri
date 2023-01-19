@@ -1,0 +1,4 @@
+﻿  プログラム練習用.cpp
+C:\Users\Ibuki\Documents\Visual Studio 2022\Projects\プログラム練習用\プログラム練習用.cpp(20,7): warning C4551: 関数呼び出しに引数リストがありません。
+プログラム練習用.obj : error LNK2001: 外部シンボル "public: static int syu::z" (?z@syu@@2HA) は未解決です
+C:\Users\Ibuki\Documents\Visual Studio 2022\Projects\プログラム練習用\x64\Debug\プログラム練習用.exe : fatal error LNK1120: 1 件の未解決の外部参照
